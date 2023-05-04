@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>672597479717-j9or2k17442iqsagk5vlvhn9i3so8q18.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.672597479717-j9or2k17442iqsagk5vlvhn9i3so8q18</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHAafGlHwRukqhlgbizj822PnCg7LPXUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>672597479717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.clickCounter</string>
+	<key>PROJECT_ID</key>
+	<string>house-keeping-efa97</string>
+	<key>STORAGE_BUCKET</key>
+	<string>house-keeping-efa97.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:672597479717:ios:99a8147848016ba4d54acc</string>
+</dict>
+</plist>
