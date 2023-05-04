@@ -12,7 +12,6 @@ we have installed dependencies that helped us to access firebase. To run our pro
 The dependencies are below
 flutter:
     sdk: flutter 
-
   cloud_firestore: ^4.4.4
   firebase_core: ^2.7.1
   firebase_analytics: ^10.1.5
